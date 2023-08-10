@@ -1,0 +1,12 @@
+{
+    "name": "skiing-website",
+    "version": "1.0.0",
+    "description": "A website about skiing",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"  // If you decide to use a simple Node.js server for development
+    }
+  }
+  

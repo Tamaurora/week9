@@ -1,0 +1,32 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 30px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  /* Homepage Image */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Contact Form */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Responsive Styling */
+  @media (max-width: 768px) {
+    .col-md-4 {
+      text-align: center;
+      margin-top: 20px;
+    }
+  }
+  
